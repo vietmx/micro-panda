@@ -1,0 +1,17 @@
+{
+  "name": "micro-panda-protocol",
+  "version": "0.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "error-utils": "^2.0.0",
+    "uuid": "^3.1.0"
+  }
+}
